@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "social-media-manager"
-version = "0.0.0"
+version = "0.0.1"
 description = "Social Media Manager"
 authors = ["Kyle Oliver <56kyleoliver@gmail.com>"]
 license = "MIT"
